@@ -2,8 +2,8 @@ import React from 'react';
 
 const Product = () => {
     return (
-        <div>
-            <h2>This is products</h2>
+        <div className='component-style'>
+            <h2>Products</h2>
         </div>
     );
 };

@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Home = () => {
+const Team = () => {
     return (
         <div className='component-style'>
-            <h2>Home</h2>
+            <h2>Team</h2>
         </div>
     );
 };
 
-export default Home;
+export default Team;
